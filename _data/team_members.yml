@@ -1,0 +1,43 @@
+- name: Wenxiang Cong, PhD
+  photo: wcong-picture.jpg
+  info: Senior Computer Engineer
+  email: wxcong@gmail.com
+  url: https://scholar.google.com/citations?user=MWsIcikAAAAJ&hl=en
+  path: 
+  number_educ: 3
+  education2: Areas - Medical Imaging, Artificial Intelligence，Statistics
+  education3: 
+
+
+- name: Haibo Song, MD
+  photo: 
+  info: Radiologist
+  email: haibocong@gmail.com
+  url: 
+  path:
+  number_educ: 2
+  education1: 
+  education2: Areas - Medical Image Analysis and Diagnosis
+
+- name: Alexander Cong, PhD
+  photo: 
+  info: Research Scientist
+  email: alexcong@gmail.com
+  url: https://scholar.google.com/citations?user=cETvTk0AAAAJ&hl=en
+  path: 
+  number_educ: 2
+  education1: 
+  education2: Areas - Image Reconstruction, Machine Learning/Deep Learning
+  education3: 
+
+- name: Mengzhou Li, PhD
+  photo: 
+  info: Research Scientist
+  email: lim23@rpi.edu
+  url: https://www.linkedin.com/in/mengzhou-li-14122719a/
+  path:
+  number_educ: 2
+  education1: 
+  education2: Areas - Medical Imaging, Deep Learning
+  education3:
+  education4:

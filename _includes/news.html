@@ -1,0 +1,23 @@
+
+<div class="well">
+<h4>News</h4>
+
+{% for article in site.data.news limit:7 %}
+
+<p>{{ article.date }} <br>
+
+{% if article.editor %}
+{{ article.editor }}:
+{% endif %}
+
+{% if article.url %}
+<em> <a href="{{ article.url}}" > {{ article.headline }}</a></em>, {{ article.site }}
+{% else %}
+<em>  {{ article.headline }}</em>, {{ article.site }} 
+{% endif %}
+</p>
+{% endfor %}
+
+<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+
+</div>
