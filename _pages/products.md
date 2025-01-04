@@ -7,7 +7,6 @@ permalink: /products/
 ---
 
 <br/>
-<br/>
 <!--# products-->
 
 <h3>AI Foundation Model for Cancer diagnosis</h3>
