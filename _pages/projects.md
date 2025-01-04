@@ -16,13 +16,11 @@ permalink: /projects/
 
 <p style="text-align: justify;">Cardiac tomographic imaging represents a suite of advanced technologies designed to provide three-dimensional visualization of the heart’s structure and function. These techniques offer detailed insights into cardiac anatomy, blood flow, and tissue characteristics, playing a pivotal role in the diagnosis and management of cardiovascular diseases. As a foundational tool in modern cardiology, cardiac tomographic imaging enables clinicians to make informed decisions with precision. With continuous technological advancements, these methods are poised to further improve diagnostic accuracy, enhance treatment planning, and ultimately elevate patient care.</p>
 
-
+<!-- 
 <p align = "left">
 <img src="{{ site.url }}{{ site.baseurl }}/images/projects/cardiac_ct_deblooming.png" width="500" height="300">
 </p>
-
-
-
+-->
 
 
 
