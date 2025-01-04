@@ -11,16 +11,7 @@ permalink: /multimedia/
 
 
 ## AI for Medical Imaging
-<p style="text-align: justify;">Artificial Intelligence (AI) is revolutionizing medical imaging by enhancing diagnostic accuracy, improving workflow efficiency, and enabling early detection of diseases. By leveraging machine learning (ML) and deep learning (DL) techniques, AI-powered tools analyze complex medical images such as X-rays, MRIs, CT scans, and ultrasounds, transforming the field of radiology and beyond.</p>
-
-<p style="text-align: justify;"><b>Disease Detection and Diagnosis</b>: Identifies abnormalities such as tumors, fractures, and infections. Detects early-stage cancers, cardiovascular diseases, and neurological disorders.</p>
-
-<p style="text-align: justify;"><b>Image Segmentation</b>: Precisely delineates anatomical structures and lesions. Essential for planning surgeries, radiation therapy, and other treatments.</p>
-
-<b>Classification</b>: Differentiates between benign and malignant lesions. Identifies disease subtypes for personalized treatment planning.
-<br>
-<p style="text-align: justify;"><b>Quantitative Analysis</b>: Measures tumor volume, organ size, or vascular structures. Tracks disease progression and response to treatment. Combines data from different imaging modalities (e.g., MRI, PET) for comprehensive analysis. Integrates imaging with patient demographics and lab results for holistic insights.</p>
-
+<p style="text-align: justify;">We have proposed a novel score-matching formula to derive a new score function through deep learning on an image dataset. By integrating our new score function into the image reconstruction process, we have developed a new iterative reconstruction method within the MAP estimation framework to enhance image quality. We have evaluated the performance of our image reconstruction method on both public medical CT datasets and clinical raw datasets. Our reconstruction method consistently produced higher quality images in terms of PSNR and SSIM metrics across diverse datasets. Notably, on Siemens and GE clinical CT raw datasets, our proposed approach achieved superior denoising and deblurring effects over the competing methods, illustrating remarkable generalizability and stability. Our proposed score matching formula holds potential in image denoising, deblurring, and generation.</p>
 
 ## Future Directions in AI for Medical Imaging
 <b>Self-Supervised and Transfer Learning</b>: Enhances AI capabilities with less labeled data.
