@@ -5,7 +5,7 @@ excerpt: "Intellimaging -- Projects"
 sitemap: false
 permalink: /projects/
 ---
-## Projects:
+## Project Execution:
 
 <h3>Image processing, Reconstruction, and Generation</h3>
 <p style="text-align: justify;">Image-related tasks—such as processing, reconstruction, and generation—are essential across diverse fields, including medical imaging, computer vision, entertainment, and scientific research. Each process targets specific aspects of image analysis and creation, often utilizing advanced algorithms and AI techniques to achieve optimal results. Together, these methods are instrumental in transforming raw data into meaningful insights and creative outputs, driving innovation and progress across industries.</p>
