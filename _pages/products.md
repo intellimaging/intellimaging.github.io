@@ -8,6 +8,7 @@ permalink: /products/
 
 <br/>
 <!--# products-->
+## Products
 
 <h3>AI Foundation Model for Cancer diagnosis</h3>
 <p style="text-align: justify;">An AI foundation model for tumor identification leverages large-scale, pre-trained deep learning architectures to analyze and interpret medical images, including MRI, CT, PET, and histopathological scans. These models utilize state-of-the-art techniques to identify, classify, and characterize tumors, offering robust performance across various tumor types, anatomical locations, and imaging modalities. By generalizing effectively across diverse clinical scenarios, foundation models significantly enhance the accuracy and efficiency of cancer detection.</p>
