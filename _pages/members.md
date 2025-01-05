@@ -10,7 +10,7 @@ permalink: /members/
 <br/>
 <br/>
 
-## Group Members:
+## Team Members:
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
