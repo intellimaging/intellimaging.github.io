@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 <br/>
 
-## Publications:
+## Academic achievements:
 
 <p style="text-align: justify;">
 <b>[1]</b> Wenxiang Cong, et al, "<b>Tomographic Image Reconstruction Using an Advanced Score Function (ADSF)</b>," [arXiv:2306.08610(2023)](https://arxiv.org/pdf/2306.08610v7)
