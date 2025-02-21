@@ -48,7 +48,7 @@ We specialize in X-ray tomographic imaging, photoacoustic imaging, and advanced 
         <!-- Fourth Slide -->
         <div class="item">
             <a href="https://www.cell.com/patterns/fulltext/S2666-3899(20)30169-0">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" alt="Slide 4" width="800" height="600"/>
+                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" alt="Slide 4" width="900" height="800"/>
             </a>
         </div>
   </div>
