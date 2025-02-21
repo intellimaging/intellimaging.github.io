@@ -37,7 +37,7 @@ permalink: /
         <!-- Third Slide -->
         <div class="item">
             <a href="{{ site.url }}{{ site.baseurl }}/images/Slide11.png" onclick="enlargeImg()">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide11.png" alt="Slide 3" width="1000" height="800"/>
+                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide11.png" alt="Slide 3" width="800" height="600"/>
             </a>
         </div>
 
