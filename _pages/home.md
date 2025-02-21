@@ -5,7 +5,6 @@ excerpt: "Developing artificial intelligence technologies for medical imaging"
 sitemap: false
 permalink: /
 ---
-<!DOCTYPE html>
 <html>
 <body>
 <p style="text-align: justify;">Artificial Intelligence (AI) is redefining medical imaging by enhancing diagnostic precision, streamlining workflow efficiency, and facilitating early disease detection. Employing machine learning (ML) and deep learning (DL) techniques, AI-driven tools interpret complex medical images—such as MRIs, CT scans, and ultrasounds—revolutionizing radiology and extending its impact throughout healthcare.<br/>
