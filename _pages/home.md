@@ -40,7 +40,7 @@ We specialize in X-ray tomographic imaging, photoacoustic imaging, and advanced 
 
         <!-- Third Slide -->
         <div class="item">
-            <a href="https://axiv.org/pdf/2306.08610v7">
+            <a href="{{ site.url }}{{ site.baseurl }}/images/Slide21.png">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/Slide21.png" alt="Slide 3" width="1224" height="294"/>
             </a>
         </div>
