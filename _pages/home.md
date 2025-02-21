@@ -41,7 +41,7 @@ We specialize in X-ray tomographic imaging, photoacoustic imaging, and advanced 
         <!-- Third Slide -->
         <div class="item">
             <a href="{{ site.url }}{{ site.baseurl }}/images/Slide21.png">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide21.png" alt="Slide 3" width="612" height="147"/>
+                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide21.png" onclick="enlargeImg()" alt="Slide 3" width="612" height="147"/>
             </a>
         </div>
 
