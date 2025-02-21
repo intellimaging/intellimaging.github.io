@@ -29,14 +29,14 @@ permalink: /
 
         <!-- Second Slide -->
         <div class="item">
-            <a href="https://axiv.org/pdf/2306.08610v7">
+            <a href="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG" alt="Slide 2" width="800" height="600"/>
             </a>
         </div>
 
         <!-- Third Slide -->
         <div class="item">
-            <a href="{{ site.url }}{{ site.baseurl }}/images/Slide21.png" onclick="enlargeImg()">
+            <a href="{{ site.url }}{{ site.baseurl }}/images/Slide11.png" onclick="enlargeImg()">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/Slide11.png" alt="Slide 3" width="1000" height="800"/>
             </a>
         </div>
