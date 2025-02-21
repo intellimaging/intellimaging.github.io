@@ -5,6 +5,9 @@ excerpt: "Developing artificial intelligence technologies for medical imaging"
 sitemap: false
 permalink: /
 ---
+<!DOCTYPE html>
+<html>
+<body>
 <p style="text-align: justify;">Artificial Intelligence (AI) is redefining medical imaging by enhancing diagnostic precision, streamlining workflow efficiency, and facilitating early disease detection. Employing machine learning (ML) and deep learning (DL) techniques, AI-driven tools interpret complex medical images—such as MRIs, CT scans, and ultrasounds—revolutionizing radiology and extending its impact throughout healthcare.<br/>
 <br/>
 Our expertise centers on medical imaging for disease detection and diagnosis. AI adeptly identifies abnormalities—such as tumors, fractures, and infections—and enables early detection of cancers, cardiovascular diseases, and neurological disorders. It precisely delineates anatomical structures and lesions, aiding surgical planning, radiation therapy, and other interventions. Furthermore, AI differentiates benign from malignant lesions, classifies disease subtypes, and guides personalized treatment strategies. It measures tumor volume, organ size, and vascular characteristics while tracking disease progression and treatment response. By synthesizing data from multiple imaging modalities, patient demographics, and laboratory results, AI provides integrated, holistic insights.<br/>
@@ -77,4 +80,5 @@ We specialize in X-ray tomographic imaging, photoacoustic imaging, and advanced 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-
+</body>
+</html>
