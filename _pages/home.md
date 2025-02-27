@@ -23,7 +23,7 @@ permalink: /
     
         <div class="item active">
             <a href="https://www.cell.com/patterns/fulltext/S2666-3899(20)30169-0">
-              <img src="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG" alt="Slide 1" width="800" height="600"/>
+              <img src="{{ site.url }}{{ site.baseurl }}/images/Slide10.png" alt="Slide 1" width="800" height="600"/>
             </a>
         </div>
 
