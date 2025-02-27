@@ -29,7 +29,7 @@ permalink: /
 
         <!-- Second Slide -->
         <div class="item">
-            <a href="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG">
+            <a href="{{ site.url }}{{ site.baseurl }}/images/Slide10.png">
                 <img src="{{ site.url }}{{ site.baseurl }}/images/Slide10.png" alt="Slide 2" width="800" height="600"/>
             </a>
         </div>
