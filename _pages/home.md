@@ -29,8 +29,8 @@ permalink: /
 
         <!-- Second Slide -->
         <div class="item">
-            <a href="{{ site.url }}{{ site.baseurl }}/images/Slide01.png">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide01.png" alt="Slide 2" width="800" height="600"/>
+            <a href="{{ site.url }}{{ site.baseurl }}/images/Slide000.png">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide000.png" alt="Slide 2" width="800" height="600"/>
             </a>
         </div>
 
@@ -44,7 +44,7 @@ permalink: /
         <!-- Fourth Slide -->
         <div class="item">
             <a href="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" >
-                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" alt="Slide 4" width="1000" height="800"/>
+                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" alt="Slide 4" width="800" height="600"/>
             </a>
         </div>
   </div>
