@@ -106,12 +106,15 @@ function magnify(imgID, zoom) {
         </div>
 
         <!-- Second Slide -->
-        <div class="item">
-        <!--<div class="img-zoom-container">-->
+        <!--<div class="item">-->
+        <div class="img-magnifier-container">
             <a href="{{ site.url }}{{ site.baseurl }}/images/Slide000.png">
-                <img src="{{ site.url }}{{ site.baseurl }}/images/Slide000.png" alt="Slide 2" width="800" height="600"/>
+                <img id="myimage" src="{{ site.url }}{{ site.baseurl }}/images/Slide000.png" alt="Slide 2" width="800" height="600"/>
             </a>
         </div>
+        <script>
+           magnify("myimage", 4);
+        </script>
 
         <!-- Third Slide -->
         <div class="item">
