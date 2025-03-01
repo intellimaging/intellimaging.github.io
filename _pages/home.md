@@ -36,16 +36,17 @@ permalink: /
 
 <div class="image-container">
   <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG" style="width:100%" class="zoomable-image" onclick="toggleZoom(this)">
-  <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide000.png" style="width:100%">
-  <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide11.png" style="width:100%">
-  <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" style="width:100%">
-</div>
-    <script>
+        <script>
         // Function to toggle zoom state
         function toggleZoom(image) {
             image.classList.toggle('zoomed');
         }
     </script>
+  <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide000.png" style="width:100%">
+  <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide11.png" style="width:100%">
+  <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" style="width:100%">
+</div>
+
 <br>
 <div style="text-align: center;">
   <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">❮ Prev</button>
