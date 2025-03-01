@@ -6,7 +6,6 @@ sitemap: false
 permalink: /
 ---
 <html>    
-
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -145,7 +144,7 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(3)"></span> 
   <span class="dot" onclick="currentSlide(4)"></span> 
 </div>
-
+<!--
 <script>
 let slideIndex = 1;
 showSlides(slideIndex);
@@ -174,5 +173,6 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
+-->
 </body>
 </html>
