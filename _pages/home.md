@@ -18,7 +18,7 @@ img {vertical-align: middle;}
 .slideshow-container {
   max-width: 1000px;
   position: relative;
-  margin: none;
+  margin: auto;
 }
 
 /* Next & previous buttons */
@@ -111,7 +111,7 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">1 / 4</div>
   <img src="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG" style="width:100%">
-  <div class="text">Caption Text</div>
+  <div class="text">Caption One</div>
 </div>
 
 <div class="mySlides fade">
@@ -129,7 +129,7 @@ img {vertical-align: middle;}
 <div class="mySlides fade">
   <div class="numbertext">4 / 4</div>
   <img src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" style="width:100%">
-  <div class="text">Caption Three</div>
+  <div class="text">Caption Four</div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -164,7 +164,7 @@ function showSlides(n) {
   if (n > slides.length) {slideIndex = 1}    
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
+    slides[i].style.display = "inline";  
   }
   for (i = 0; i < dots.length; i++) {
     dots[i].className = dots[i].className.replace(" active", "");
