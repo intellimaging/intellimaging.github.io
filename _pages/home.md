@@ -18,7 +18,7 @@ img {vertical-align: middle;}
 .slideshow-container {
   max-width: 1000px;
   position: relative;
-  margin: auto;
+  margin: none;
 }
 
 /* Next & previous buttons */
@@ -144,7 +144,7 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(3)"></span> 
   <span class="dot" onclick="currentSlide(4)"></span> 
 </div>
-<!--
+
 <script>
 let slideIndex = 1;
 showSlides(slideIndex);
@@ -173,6 +173,6 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
--->
+
 </body>
 </html>
