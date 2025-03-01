@@ -34,7 +34,6 @@ permalink: /
             </a>
         </div>
 
-
         <!-- Third Slide -->
         <div class="item">
             <a href="{{ site.url }}{{ site.baseurl }}/images/Slide11.png">
