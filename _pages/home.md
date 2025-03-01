@@ -120,13 +120,13 @@ img {vertical-align: middle;}
   <div class="text">Caption Two</div>
 </div>
 
-<div class="mySlides fade">
+<div>
   <div class="numbertext">3 / 4</div>
   <img src="{{ site.url }}{{ site.baseurl }}/images/Slide11.png" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
-<div class="mySlides fade">
+<div>
   <div class="numbertext">4 / 4</div>
   <img src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" style="width:100%">
   <div class="text">Caption Three</div>
