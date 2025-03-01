@@ -15,6 +15,7 @@ permalink: /
   <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide11.png" style="width:100%">
   <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" style="width:100%">
 </div>
+<br>
 <div style="text-align: center;">
   <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">❮ Prev</button>
   <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">Next ❯</button>
