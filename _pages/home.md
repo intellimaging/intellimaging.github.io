@@ -74,10 +74,10 @@ permalink: /
 
 <div class="image-gallery"> 
      <a href="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG" class="image-link" onclick="openModal('{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG', 'Image1')">
-     <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG" style="width:100%"></a>
-     <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide000.png" style="width:100%">
-     <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide11.png" style="width:100%">
-     <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" style="width:100%">
+     <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG" style="width:100%"/></a>
+     <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide000.png" style="width:100%"/>
+     <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide11.png" style="width:100%"/>
+     <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" style="width:100%"/>
   </div>
 <br>
 <div style="text-align: center;">
