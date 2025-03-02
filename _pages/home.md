@@ -6,31 +6,6 @@ sitemap: false
 permalink: /
 ---
 <html>    
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Zoom on Click</title>
-    <style>
-        /* Container to hold the image */
-        .image-container {
-            display: inline-block;
-            overflow: hidden; /* Prevents image overflow when zoomed */
-            cursor: pointer; /* Indicates the image is clickable */
-        }
-
-        /* Default image style */
-        .zoomable-image {
-            transition: transform 0.3s ease; /* Smooth zoom animation */
-            max-width: 100%; /* Ensures responsiveness */
-        }
-
-        /* Zoomed-in state */
-        .zoomed {
-            transform: scale(3); /* Zooms to 2x size; adjust as needed */
-        }
-    </style>
-</head>
-
 <body>
 <p style="text-align: justify;">Artificial Intelligence (AI) is revolutionizing medical imaging by enhancing diagnostic precision, streamlining workflow efficiency, and enabling early disease detection. Leveraging machine learning (ML) and deep learning (DL) techniques, AI-driven tools interpret complex medical images—such as MRIs, CT scans, and ultrasounds—transforming radiology and extending its reach across healthcare. These tools expertly identify abnormalities like tumors, fractures, and infections, while supporting early detection of cancers, cardiovascular diseases, and neurological disorders. AI accurately delineates anatomical structures and lesions, facilitating surgical planning, radiation therapy, and other interventions. Additionally, it distinguishes benign from malignant lesions, categorizes disease subtypes, informs personalized treatment strategies, and measures tumor volume, organ size, and vascular characteristics while tracking disease progression and treatment response. Specializing in X-ray tomographic imaging, photoacoustic imaging, and advanced image reconstruction and analysis, we are developing innovative theories, methods, software, and hardware systems for clinical use in disease detection and diagnosis. We welcome collaboration with partners and funding agencies on transformative, high-impact projects.class="w3-content w3-display-container"</p>
 
