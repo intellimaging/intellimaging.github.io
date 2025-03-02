@@ -79,7 +79,7 @@ permalink: /
      <a href="#" onclick="openModal('{{ site.url }}{{ site.baseurl }}/images/Slide000.png', 'Image2')">
      <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide000.png" style="width:100%"/></a>
      <a href="#" onclick="openModal('{{ site.url }}{{ site.baseurl }}/images/Slide11.png', 'Image3')">
-     <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide11.png" style="width:100%"/></a>
+     <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide-US.png" style="width:100%"/></a>
      <a href="#" onclick="openModal('{{ site.url }}{{ site.baseurl }}/images/Slide-US.png', 'Image4')">
      <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide3.png" style="width:100%"/></a>
 </div>
