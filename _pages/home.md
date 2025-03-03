@@ -78,9 +78,11 @@ permalink: /
      <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide1.PNG" style="width:100%"/></a>
      <a href="#" onclick="openModal('{{ site.url }}{{ site.baseurl }}/images/MRI-3.png', 'Image2')">
      <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/MRI-3.png" style="width:100%"/></a>
-     <a href="#" onclick="openModal('{{ site.url }}{{ site.baseurl }}/images/Slide-US-2.png', 'Image3')">
+     <a href="#" onclick="openModal('{{ site.url }}{{ site.baseurl }}/images/Slide-OA.png', 'Image3')">
+     <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide-OA.png" style="width:100%"/></a>
+     <a href="#" onclick="openModal('{{ site.url }}{{ site.baseurl }}/images/Slide-US-2.png', 'Image4')">
      <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide-US-2.png" style="width:100%"/></a>
-     <a href="#" onclick="openModal('{{ site.url }}{{ site.baseurl }}/images/Slide11.png', 'Image4')">
+     <a href="#" onclick="openModal('{{ site.url }}{{ site.baseurl }}/images/Slide11.png', 'Image5')">
      <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/Slide11.png" style="width:100%"/></a>
 </div>
 <br>
