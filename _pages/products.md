@@ -18,6 +18,8 @@ permalink: /products/
 
 <p style="text-align: justify;"><b>Breast Photoacoustic Tomographic Imaging System:</b> Breast photoacoustic tomographic imaging (PAT) is an advanced medical imaging technique that combines optical and ultrasonic methods to provide detailed three-dimensional images of breast tissue. This technology is particularly effective in visualizing blood vessels, making it a promising tool for detecting early-stage breast cancer. By leveraging the strong optical absorption of light by hemoglobin in blood, PAT can highlight vascular changes often associated with tumor development.</p>
 
+<p style="text-align: justify;"><b>Non-invasive blood glucose monitoring:</b> The recent application of machine learning to non-invasive glucose detection leverages its capacity for robust predictive modeling. This approach enhances detection sensitivity by employing complex mathematical models to correlate acquired data with reference glucose levels, thereby addressing critical FDA performance standards.</p>
+
 
 
 
