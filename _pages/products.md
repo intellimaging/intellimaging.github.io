@@ -23,7 +23,7 @@ permalink: /products/
 </p>
 
 <p style="text-align: justify;">
-    <b>Non-Invasive Blood Glucose Monitoring:</b> We are applying advanced machine learning techniques to solve the sensitivity challenges of non-invasive glucose detection. Our approach uses robust predictive modeling to accurately correlate acquired sensor data with reference glucose levels, ensuring the high precision required to meet rigorous FDA performance standards.
+    <b>Non-Invasive Blood Glucose Monitor:</b> By combining optical imaging with machine learning, we are advancing the field of non-invasive glucose detection. Our method employs a proprietary predictive model to map acquired optical data to reference glucose levels, achieving the accuracy and stability required for FDA regulatory approval.
 </p>
 
 
