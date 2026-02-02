@@ -9,7 +9,7 @@ permalink: /multimedia/
 
 <!--# Pictures-->
 
-<h2>Intellectual Property</h2>
+<h2>Intellectual Property:</h2>
 
 <h3>AI for Medical Image Processing</h3>
 <p style="text-align: justify;">
