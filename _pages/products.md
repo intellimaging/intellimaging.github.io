@@ -10,16 +10,20 @@ permalink: /products/
 <!--# products-->
 ## Product Development:
 
-<h3>AI Foundation Model for Cancer diagnosis</h3>
-<p style="text-align: justify;">An AI foundation model for tumor identification leverages large-scale, pre-trained deep learning architectures to analyze and interpret medical images, including MRI, CT, PET, and histopathological scans. These models utilize state-of-the-art techniques to identify, classify, and characterize tumors, offering robust performance across various tumor types, anatomical locations, and imaging modalities. By generalizing effectively across diverse clinical scenarios, foundation models significantly enhance the accuracy and efficiency of cancer detection.</p>
+<p style="text-align: justify;">
+    <b>Medical Image Reconstruction:</b> We are developing AI-driven image reconstruction and processing software designed to maximize diagnostic clarity. By utilizing advanced deep learning algorithms, these tools significantly enhance image quality and processing efficiency, improving the accuracy of cancer detection and clinical diagnosis.
+</p>
 
-<h3>Photoacoustic Imaging</h3>
-<p style="text-align: justify;"><b>Carotid Artery Plaque Photoacoustic Imaging System:</b> Carotid Artery Plaque Photoacoustic Imaging (PAI) is an emerging biomedical imaging technique that leverages the combined benefits of optical and ultrasound imaging to provide detailed insights into carotid artery plaques. By utilizing laser-induced ultrasound waves, PAI can visualize the composition, structure, and biological properties of plaques, offering critical information for assessing the risk of stroke and cardiovascular events.</p>
+<p style="text-align: justify;">
+    <b>Breast Photoacoustic Tomographic Imaging System:</b> Our Breast Photoacoustic Tomography (PAT) system combines optical contrast with ultrasonic resolution to generate detailed, three-dimensional images of breast tissue. By targeting the strong optical absorption of hemoglobin, this technology effectively visualizes the tumor-associated vasculature (angiogenesis) often missing in standard scans, making it a powerful tool for detecting early-stage breast cancer.
+</p>
 
-<p style="text-align: justify;"><b>Breast Photoacoustic Tomographic Imaging System:</b> Breast photoacoustic tomographic imaging (PAT) is an advanced medical imaging technique that combines optical and ultrasonic methods to provide detailed three-dimensional images of breast tissue. This technology is particularly effective in visualizing blood vessels, making it a promising tool for detecting early-stage breast cancer. By leveraging the strong optical absorption of light by hemoglobin in blood, PAT can highlight vascular changes often associated with tumor development.</p>
+<p style="text-align: justify;">
+    <b>Carotid Artery Plaque Photoacoustic Imaging System:</b> This emerging imaging platform leverages the dual benefits of optics and ultrasound to assess stroke risk with high precision. By utilizing laser-induced ultrasound waves, the system visualizes the specific composition, structure, and biological properties of carotid artery plaques—critical factors in determining plaque stability and preventing cardiovascular events.
+</p>
 
-<p style="text-align: justify;"><b>Non-invasive blood glucose monitoring:</b> The recent application of machine learning to non-invasive glucose detection leverages its capacity for robust predictive modeling. This approach enhances detection sensitivity by employing complex mathematical models to correlate acquired data with reference glucose levels, thereby addressing critical FDA performance standards.</p>
-
-
+<p style="text-align: justify;">
+    <b>Non-Invasive Blood Glucose Monitoring:</b> We are applying advanced machine learning techniques to solve the sensitivity challenges of non-invasive glucose detection. Our approach uses robust predictive modeling to accurately correlate acquired sensor data with reference glucose levels, ensuring the high precision required to meet rigorous FDA performance standards.
+</p>
 
 
