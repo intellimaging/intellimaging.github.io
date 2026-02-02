@@ -1,14 +1,12 @@
 ---
 title: "Intellimaging Tech - Products"
 layout: textlay
-excerpt: "Intellimaging -- Products"
+excerpt: "Intellimaging Tech - Advanced AI-driven medical imaging products and diagnostic systems."
 sitemap: false
 permalink: /products/
 ---
 
-<br/>
-<!--# products-->
-## Product Development:
+## Product Development
 
 <p style="text-align: justify;">
     <b>Medical Image Reconstruction:</b> We are developing AI-driven image reconstruction and processing software designed to maximize diagnostic clarity. By utilizing advanced deep learning algorithms, these tools significantly enhance image quality and processing efficiency, improving the accuracy of cancer detection and clinical diagnosis.
