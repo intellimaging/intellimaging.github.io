@@ -25,4 +25,3 @@ permalink: /products/
 <p style="text-align: justify;">
     <b>Non-Invasive Blood Glucose Monitor:</b> By combining optical imaging with machine learning, we are advancing the field of non-invasive blood glucose monitoring. Our method utilizes a proprietary predictive model that maps acquired optical data to reference blood glucose levels, achieving the accuracy and stability required for regulatory approval by the U.S. Food and Drug Administration (FDA).
 </p>
-
