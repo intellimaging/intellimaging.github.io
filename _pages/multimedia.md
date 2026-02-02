@@ -9,16 +9,23 @@ permalink: /multimedia/
 
 <!--# Pictures-->
 
-## Intellectual Property:
+<h2>Intellectual Property</h2>
 
 <h3>AI for Medical Image Processing</h3>
-<p style="text-align: justify;">This invention introduces a novel score-matching optimization model that derives a new score function through deep learning on image datasets. Integrating this score function into the Maximum A Posteriori (MAP) estimation framework yields an iterative image reconstruction method that significantly enhances image quality. Evaluated on public medical CT datasets and clinical raw datasets, the method demonstrates superior denoising and deblurring performance, outperforming competing approaches with remarkable generalizability and stability. This score-matching technique holds considerable potential for applications in image denoising, deblurring, and generation.</p>
+<p style="text-align: justify;">
+    This innovation introduces a novel score-matching optimization model derived through deep learning. By integrating a learned score function into the Maximum A Posteriori (MAP) estimation framework, we have developed an iterative image reconstruction method that significantly enhances diagnostic clarity. Validated on both public medical CT datasets and clinical raw data, our method demonstrates superior denoising and deblurring performance. It consistently outperforms state-of-the-art approaches with remarkable generalizability and stability, offering immense potential for broader applications in medical image restoration and generation.
+</p>
 
 <h3>AI for Monochromatic Medical Imaging</h3>
-<p style="text-align: justify;">Conventional computed tomography (CT) reconstructs attenuation images, providing detailed tissue morphology but lacking elemental composition data. In contrast, dual-energy CT (DECT) acquires two spectrally distinct datasets, enabling the generation of energy-selective virtual monoenergetic (VM) images and material-selective images. However, DECT increases system complexity and radiation exposure compared to single-spectrum CT. This invention introduces a deep learning-based method to generate VM images directly from single-spectrum CT images. Using an improved residual neural network (IResNet), the model maps single-spectrum CT images to VM images at specified energy levels. Trained on clinical DECT data, the model demonstrates robust convergence and produces VM images with a relative error of less than 0.2% compared to DECT-derived VM images. Additionally, it enables multi-material decomposition with accuracy comparable to DECT, offering a compelling alternative that reduces radiation dose and system complexity.</p>
+<p style="text-align: justify;">
+    While Dual-Energy CT (DECT) offers valuable material-selective data, it comes with increased hardware complexity and radiation exposure. Our invention overcomes these limitations by generating Virtual Monoenergetic (VM) images directly from standard single-spectrum CT scans. Utilizing an improved residual neural network (IResNet), our model maps single-spectrum input to VM images at specified energy levels with high precision—achieving a relative error of less than 0.2% compared to true DECT-derived images. This technology enables accurate multi-material decomposition without the need for specialized DECT hardware, offering a safer, cost-effective, and low-dose alternative for clinical diagnostics.
+</p>
 
 <h3>Future Directions in AI for Medical Imaging</h3>
-<p style="text-align: justify;">The integration of Artificial Intelligence (AI) into medical imaging is advancing swiftly, catalyzing transformative changes in healthcare. In the near future, AI is set to redefine diagnostic accuracy, treatment planning, and clinical workflows. By identifying subtle patterns in medical images beyond human perception, AI will markedly enhance diagnostic precision. Next-generation AI models will offer improved sensitivity and specificity, enabling earlier detection of conditions like cancer, neurological disorders, and cardiovascular diseases. This will support interventions at more treatable stages, ultimately elevating patient outcomes.</p>
+<p style="text-align: justify;">
+    The integration of AI into medical imaging is catalyzing a paradigm shift in healthcare, redefining diagnostic accuracy and clinical workflows. Our strategic roadmap focuses on next-generation models capable of identifying subtle pathological patterns beyond human perception. By improving sensitivity and specificity, these future tools will enable the ultra-early detection of cancers, neurological disorders, and cardiovascular diseases. We are committed to developing technologies that support interventions at the most treatable stages, ultimately driving better patient outcomes.
+</p>
+
 
 <!-- 
 <iframe width="640" height="360" src="https://www.tube.com/embed/iaP5uIBYmGE?si=8EGqudj9qd_orU9v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
