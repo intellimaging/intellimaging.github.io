@@ -71,8 +71,7 @@ permalink: /
 </head>
 
 <body>
-<p style="text-align: justify;"> Artificial Intelligence (AI) is revolutionizing medical imaging by enhancing diagnostic precision, streamlining workflows, and enabling earlier disease detection. By leveraging machine learning and deep learning techniques, AI tools can interpret complex data from MRIs, CT scans, and ultrasounds with unprecedented accuracy. These advancements allow for the precise identification of abnormalities, such as tumors and lesions, while facilitating surgical planning and personalized treatment strategies.
-//
+<p style="text-align: justify;"> Artificial Intelligence (AI) is revolutionizing medical imaging by enhancing diagnostic precision, streamlining workflows, and enabling earlier disease detection. By leveraging machine learning and deep learning techniques, AI tools can interpret complex data from MRIs, CT scans, and ultrasounds with unprecedented accuracy. These advancements allow for the precise identification of abnormalities, such as tumors and lesions, while facilitating surgical planning and personalized treatment strategies.<br>
 Building on this technological shift, our team specializes in X-ray tomographic imaging, photoacoustic imaging, and advanced image reconstruction. We are developing innovative imaging models, software, and hardware systems designed for clinical use. We actively welcome collaboration with partners and funding agencies on transformative, high-impact projects that expand the capabilities of disease detection and diagnosis.</p>
 <br>
 <div class="image-gallery"> 
