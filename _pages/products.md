@@ -6,7 +6,7 @@ sitemap: false
 permalink: /products/
 ---
 
-## Product Development
+## Product Development:
 
 <p style="text-align: justify;">
     <b>Medical Image Reconstruction:</b> We are developing AI-driven image reconstruction and processing software designed to maximize diagnostic clarity. By utilizing advanced deep learning algorithms, these tools significantly enhance image quality and processing efficiency, improving the accuracy of cancer detection and clinical diagnosis.
