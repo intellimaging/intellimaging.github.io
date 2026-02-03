@@ -20,6 +20,4 @@ permalink: /products/
     <b>Carotid Artery Plaque Photoacoustic Imaging System:</b> This emerging imaging platform leverages the dual benefits of optics and ultrasound to assess stroke risk with high precision. By utilizing laser-induced ultrasound waves, the system visualizes the specific composition, structure, and biological properties of carotid artery plaques—critical factors in determining plaque stability and preventing cardiovascular events.
 </p>
 
-<p style="text-align: justify;">
-    <b>Non-Invasive Blood Glucose Monitor:</b> By combining optical imaging with machine learning, we are advancing the field of non-invasive blood glucose monitoring. Our method utilizes a proprietary predictive model that maps acquired optical data to reference blood glucose levels, achieving the accuracy and stability required for regulatory approval by the U.S. Food and Drug Administration (FDA).
-</p>
+
