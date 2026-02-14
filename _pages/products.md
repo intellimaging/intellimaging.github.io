@@ -13,8 +13,9 @@ permalink: /products/
 <br>
 <br>
 <iframe  src="{{ site.url }}{{ site.baseurl }}/images/imgfile.dpf" width="100%"   height="600px">
-     <p>Your browser does not support PDFs. 
-    <a href="imgfile.pdf">Download the PDF</a>.</p>
+     <p> Your browser does not support PDFs. 
+         <a href="{{ site.url }}{{ site.baseurl }}/images/imgfile.dpf">Download the PDF</a>.
+     </p>
 </iframe>
 </p>
 
