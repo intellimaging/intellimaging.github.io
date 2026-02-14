@@ -14,9 +14,8 @@ permalink: /products/
 <br>
 <embed src="{{ site.url }}{{ site.baseurl }}/images/imgfile.pdf" 
            type="application/pdf" 
-           width="100%" 
+           width="120%" 
            height="600px" />
-</div>
 
 
 <p style="text-align: justify;">
