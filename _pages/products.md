@@ -17,6 +17,13 @@ permalink: /products/
          <a href="{{ site.url }}{{ site.baseurl }}/images/imgfile.dpf">Download the PDF</a>.
      </p>
 </iframe>
+
+<br>
+<div class="image-gallery"> 
+     <a href="#" onclick="openModal('{{ site.url }}{{ site.baseurl }}/images/imgfile,pdf', 'Image1')">
+     <img class="mySlides" src="{{ site.url }}{{ site.baseurl }}/images/imgfile.pdf" style="width:100%"/></a>
+</div>
+<br>
 </p>
 
 <p style="text-align: justify;">
