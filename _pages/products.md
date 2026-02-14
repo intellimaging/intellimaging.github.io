@@ -10,6 +10,13 @@ permalink: /products/
 
 <p style="text-align: justify;">
     <b>Medical Image Reconstruction:</b> We are developing AI-driven image reconstruction and processing software optimized for CT, MRI, PET, and ultrasound to maximize imaging performance. By combining advanced deep learning techniques with image reconstruction algorithms, these tools significantly enhance image quality and processing efficiency, improving the accuracy of cancer detection and clinical diagnosis.
+
+<iframe
+  src='{{ site.url }}{{ site.baseurl }}/images/imgfile.dpf'
+  width="100%"
+  height="600px"
+  style="border: none;"
+></iframe>
 </p>
 
 <p style="text-align: justify;">
