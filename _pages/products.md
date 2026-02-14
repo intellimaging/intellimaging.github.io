@@ -17,11 +17,6 @@ permalink: /products/
            type="application/pdf" 
            width="100%" 
            height="600px" />
-           
-    <p style="font-size: 0.9em; color: #666;">
-        (If the document does not appear, 
-        <a href="{{ site.url }}{{ site.baseurl }}/images/imgfile.pdf" target="_blank">click here to download</a>.)
-    </p>
 </div>
 
 
