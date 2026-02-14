@@ -9,30 +9,13 @@ permalink: /products/
 ## Product Development:
 
 <div style="text-align: justify;">
-<p>
-    <b>Medical Image Reconstruction:</b> We are developing AI-driven image reconstruction and processing software optimized for CT, MRI, PET, and ultrasound to maximize imaging performance. By combining advanced deep learning techniques with image reconstruction algorithms, these tools significantly enhance image quality and processing efficiency, improving the accuracy of cancer detection and clinical diagnosis.
-</p>
-<br>
-
-    <iframe src="{{ site.url }}{{ site.baseurl }}/images/imgfile.pdf" 
-            width="100%" 
-            height="600px" 
-            style="border: none;">
-            
-        <p>Your browser does not support embedded PDFs. 
-           <a href="{{ site.url }}{{ site.baseurl }}/images/imgfile.pdf">Download the PDF</a>.
-        </p>
-    </iframe>
-</div>
-<br>
-<div style="text-align: justify;">
     <p>
         <b>Medical Image Reconstruction:</b> We are developing AI-driven image reconstruction and processing software optimized for CT, MRI, PET, and ultrasound to maximize imaging performance. By combining advanced deep learning techniques with image reconstruction algorithms, these tools significantly enhance image quality and processing efficiency, improving the accuracy of cancer detection and clinical diagnosis.
     </p>
 
     <p>
         <a href="{{ site.url }}{{ site.baseurl }}/images/imgfile.pdf" target="_blank">
-            <b>[Click here to view the PDF]</b>
+            [Download the PDF]
         </a>
     </p>
 </div>
