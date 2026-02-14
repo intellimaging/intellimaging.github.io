@@ -11,12 +11,10 @@ permalink: /products/
 <p style="text-align: justify;">
         <b>Medical Image Reconstruction:</b> We are developing AI-driven image reconstruction and processing software optimized for CT, MRI, PET, and ultrasound to maximize imaging performance. By combining advanced deep learning techniques with image reconstruction algorithms, these tools significantly enhance image quality and processing efficiency, improving the accuracy of cancer detection and clinical diagnosis.
 </p>
-<br>
 <embed src="{{ site.url }}{{ site.baseurl }}/images/imgfile.pdf" 
            type="application/pdf" 
            width="96%" 
            height="520px" />
-
 
 <p style="text-align: justify;">
     <b>Breast Photoacoustic Tomographic Imaging System:</b> Our Breast Photoacoustic Tomography (PAT) system combines optical contrast with ultrasonic resolution to generate detailed, three-dimensional images of breast tissue. By targeting the strong optical absorption of hemoglobin, this technology effectively visualizes the tumor-associated vasculature (angiogenesis) often missing in standard scans, making it a powerful tool for detecting early-stage breast cancer.
